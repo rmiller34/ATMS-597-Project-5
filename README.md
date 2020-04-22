@@ -31,13 +31,16 @@ https://unidata.github.io/MetPy/latest/examples/plots/Station_Plot.html
 Results:
 
 Logistic Regression: 
+
 Training Brier Skill Score=
 
 Validation Brier Skill Score=
 
 Decision Tree: 
-Training Brier Skill Score=
 
-Validation Brier Skill Score=
+Training Brier Skill Score= 0.9969833900949442
+
+Validation Brier Skill Score=0.9546344770308283
+
 
 
