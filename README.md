@@ -32,15 +32,13 @@ Results:
 
 Logistic Regression: 
 
-Training Brier Skill Score=
+Brier Skill Score=0.9398334216972509
 
-Validation Brier Skill Score=
 
 Decision Tree: 
 
-Training Brier Skill Score= 0.9969833900949442
 
-Validation Brier Skill Score=0.9546344770308283
+Brier Skill Score=0.9546344770308283
 
 
 
