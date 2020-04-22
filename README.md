@@ -20,13 +20,7 @@ Methods:
 
 METAR data was processed and parsed using metpy  to create a dataframe that can be read by pandas as a csv file.
 
-References:
 
-https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/automated-surface-observing-system-asos
-https://scikit-learn.org/stable/auto_examples/tree/plot_tree_regression.html
-https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
-https://scikit-learn.org/stable/modules/generated/sklearn.metrics.brier_score_loss.html
-https://unidata.github.io/MetPy/latest/examples/plots/Station_Plot.html 
 
 Results:
 
@@ -41,4 +35,10 @@ Decision Tree:
 Brier Skill Score=0.9546344770308283
 
 
+References:
 
+https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/automated-surface-observing-system-asos
+https://scikit-learn.org/stable/auto_examples/tree/plot_tree_regression.html
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.brier_score_loss.html
+https://unidata.github.io/MetPy/latest/examples/plots/Station_Plot.html 
