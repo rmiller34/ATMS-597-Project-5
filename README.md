@@ -12,7 +12,8 @@ Next, compare both of the models on their performance in relation to the climato
 
 Data:
 
-Data was downloaded from the ASOS FTP archive: : ftp://ftp.ncdc.noaa.gov/pub/data/asos-fivemin/
+Data was downloaded from the ASOS FTP archive: : ftp://ftp.ncdc.noaa.gov/pub/data/asos-fivemin/.
+
 This data was presented in five-minute intervals for many stations. The station data for this project is: KMSN.
 
 Methods:
@@ -29,10 +30,12 @@ Results:
 
 Logistic Regression: 
 Training Brier Skill Score=
+
 Validation Brier Skill Score=
 
 Decision Tree: 
 Training Brier Skill Score=
+
 Validation Brier Skill Score=
 
 
