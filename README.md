@@ -18,7 +18,7 @@ This data was presented in five-minute intervals for many stations. The station 
 
 Methods:
 
-METAR data was processed and parsed using metpy  to create a dataframe that can be read by pandas as a csv file.
+METAR data was processed and parsed using metpy to create a dataframe that can be read by pandas as a csv file. All unique values of current weather were viewed, and non-precipitation labels were replaced with NaNs and removed. Columns with substantial amounts of missing data were then removed, as well. From the remaining precipitation labels, a frozen precipitation and liquid precipitation grouping was created and then made binary.
 
 
 
